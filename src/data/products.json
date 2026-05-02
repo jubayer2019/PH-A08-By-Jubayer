@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 25,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Premium polarized lenses with lightweight frames. Perfect for beach days and outdoor adventures.",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=600",
+    "category": "Accessories"
+  },
+  {
+    "id": "2",
+    "name": "Linen Summer Shirt",
+    "brand": "Breeze",
+    "price": 45,
+    "rating": 4.5,
+    "stock": 20,
+    "description": "Breathable 100% organic linen shirt in a relaxed fit. Keeps you cool even in the hottest weather.",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&q=80&w=600",
+    "category": "Apparel"
+  },
+  {
+    "id": "3",
+    "name": "Organic Sunscreen SPF 50",
+    "brand": "PureGuard",
+    "price": 18,
+    "rating": 4.9,
+    "stock": 50,
+    "description": "Reef-safe, non-greasy mineral sunscreen with vitamin E and aloe vera. Broad spectrum water-resistant.",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=600",
+    "category": "Skincare"
+  },
+  {
+    "id": "4",
+    "name": "Woven Straw Beach Bag",
+    "brand": "IslandVibe",
+    "price": 35,
+    "rating": 4.7,
+    "stock": 12,
+    "description": "Handcrafted straw bag with spacious interior and soft cotton lining. Features an internal pocket for small items.",
+    "image": "https://bohobeachhut.com/cdn/shop/files/boho-beach-hut-purse-tote-beach-bag-handbag-woven-straw-bag-bohemian-woven-straw-tote-bag-khaki-one-size-42829213630776.jpg?v=1723961754&width=1024",
+    "category": "Accessories"
+  },
+  {
+    "id": "5",
+    "name": "Quick-Dry Swim Shorts",
+    "brand": "AquaFlow",
+    "price": 30,
+    "rating": 4.6,
+    "stock": 25,
+    "description": "Engineered for performance and comfort. Vibrant tropical prints with reinforced stitching.",
+    "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&q=80&w=600",
+    "category": "Apparel"
+  },
+  {
+    "id": "6",
+    "name": "Insulated Water Bottle",
+    "brand": "HydraCool",
+    "price": 22,
+    "rating": 4.8,
+    "stock": 40,
+    "description": "Double-wall vacuum insulation keeps drinks ice cold for up to 24 hours. Durable powder-coated finish.",
+    "image": "https://www.hellogreen.com.au/cdn/shop/files/Earth_Bottle-18oz_1600x.jpg?v=1731714430",
+    "category": "Outdoors"
+  },
+  {
+    "id": "7",
+    "name": "Wide-Brim Panama Hat",
+    "brand": "IslandVibe",
+    "price": 28,
+    "rating": 4.7,
+    "stock": 18,
+    "description": "Classic hand-woven straw hat with an adjustable inner band. Provides excellent sun protection with a stylish silhouette.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxKxRnz1zcQMTYSFyt7HHTNoA-0kfXa8AZw&s",
+    "category": "Accessories"
+  },
+  {
+    "id": "8",
+    "name": "Portable Mesh Hammock",
+    "brand": "AquaFlow",
+    "price": 38,
+    "rating": 4.9,
+    "stock": 10,
+    "description": "Ultra-lightweight and breathable mesh design. Includes tree-friendly straps and a compact carrying pouch for easy travel.",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/6bcfbc59b20cee214ece2e5ec48b27e0.jpg_720x720q80.jpg",
+    "category": "Outdoors"
+  },
+  {
+    "id": "9",
+    "name": "After-Sun Aloe Gel",
+    "brand": "PureGuard",
+    "price": 14,
+    "rating": 4.6,
+    "stock": 65,
+    "description": "Soothing organic aloe vera enriched with cucumber extract and mint. Instantly cools and hydrates sun-exposed skin.",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600",
+    "category": "Skincare"
+  },
+  {
+    "id": "10",
+    "name": "Floating Waterproof Phone Pouch",
+    "brand": "HydraCool",
+    "price": 12,
+    "rating": 4.5,
+    "stock": 100,
+    "description": "Universal size with a transparent window for touch-screen use. IPX8 certified, ensuring your device stays dry underwater.",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=600",
+    "category": "Accessories"
+  },
+  {
+    "id": "11",
+    "name": "Floral Summer Dress",
+    "brand": "Breeze",
+    "price": 55,
+    "rating": 4.8,
+    "stock": 14,
+    "description": "Lightweight viscose fabric with a vibrant floral pattern. Features adjustable spaghetti straps and a flowing midi-length hem.",
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&q=80&w=600",
+    "category": "Apparel"
+  },
+  {
+    "id": "12",
+    "name": "Sand-Free Beach Towel",
+    "brand": "SunShade",
+    "price": 32,
+    "rating": 4.7,
+    "stock": 30,
+    "description": "Microfiber technology that shakes off sand instantly. Oversized design that folds down small enough to fit in a pocket.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRf4NfG1Sap_fDdD6EoQPgWe9H_JRtfDLAhw&s",
+    "category": "Accessories"
+  }
+]
